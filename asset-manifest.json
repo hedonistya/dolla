@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dolla/static/css/main.4d467896.chunk.css",
+    "main.js": "/dolla/static/js/main.c4acc4f2.chunk.js",
+    "main.js.map": "/dolla/static/js/main.c4acc4f2.chunk.js.map",
+    "runtime-main.js": "/dolla/static/js/runtime-main.36e28d8e.js",
+    "runtime-main.js.map": "/dolla/static/js/runtime-main.36e28d8e.js.map",
+    "static/js/2.51d802e6.chunk.js": "/dolla/static/js/2.51d802e6.chunk.js",
+    "static/js/2.51d802e6.chunk.js.map": "/dolla/static/js/2.51d802e6.chunk.js.map",
+    "index.html": "/dolla/index.html",
+    "static/css/main.4d467896.chunk.css.map": "/dolla/static/css/main.4d467896.chunk.css.map",
+    "static/js/2.51d802e6.chunk.js.LICENSE.txt": "/dolla/static/js/2.51d802e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36e28d8e.js",
+    "static/js/2.51d802e6.chunk.js",
+    "static/css/main.4d467896.chunk.css",
+    "static/js/main.c4acc4f2.chunk.js"
+  ]
+}

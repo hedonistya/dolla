@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/dolla/static/css/main.4d467896.chunk.css",
-    "main.js": "/dolla/static/js/main.c4acc4f2.chunk.js",
-    "main.js.map": "/dolla/static/js/main.c4acc4f2.chunk.js.map",
+    "main.js": "/dolla/static/js/main.23f9fa79.chunk.js",
+    "main.js.map": "/dolla/static/js/main.23f9fa79.chunk.js.map",
     "runtime-main.js": "/dolla/static/js/runtime-main.36e28d8e.js",
     "runtime-main.js.map": "/dolla/static/js/runtime-main.36e28d8e.js.map",
-    "static/js/2.51d802e6.chunk.js": "/dolla/static/js/2.51d802e6.chunk.js",
-    "static/js/2.51d802e6.chunk.js.map": "/dolla/static/js/2.51d802e6.chunk.js.map",
+    "static/js/2.bdf74220.chunk.js": "/dolla/static/js/2.bdf74220.chunk.js",
+    "static/js/2.bdf74220.chunk.js.map": "/dolla/static/js/2.bdf74220.chunk.js.map",
     "index.html": "/dolla/index.html",
     "static/css/main.4d467896.chunk.css.map": "/dolla/static/css/main.4d467896.chunk.css.map",
-    "static/js/2.51d802e6.chunk.js.LICENSE.txt": "/dolla/static/js/2.51d802e6.chunk.js.LICENSE.txt"
+    "static/js/2.bdf74220.chunk.js.LICENSE.txt": "/dolla/static/js/2.bdf74220.chunk.js.LICENSE.txt",
+    "static/media/car.svg": "/dolla/static/media/car.740ba202.svg",
+    "static/media/pig.svg": "/dolla/static/media/pig.0d5eafcf.svg",
+    "static/media/signup.svg": "/dolla/static/media/signup.d59c1cba.svg",
+    "static/media/video.7d1ea6a9.mp4": "/dolla/static/media/video.7d1ea6a9.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.36e28d8e.js",
-    "static/js/2.51d802e6.chunk.js",
+    "static/js/2.bdf74220.chunk.js",
     "static/css/main.4d467896.chunk.css",
-    "static/js/main.c4acc4f2.chunk.js"
+    "static/js/main.23f9fa79.chunk.js"
   ]
 }
